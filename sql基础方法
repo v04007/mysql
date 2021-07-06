@@ -1,0 +1,16 @@
+1.启动
+管理员命令行打开
+net start mysql
+2登录：
+mysql -u root -p
+回车输入密码
+
+3.查看数据库：
+show databases;
+
+4.选择数据库
+use 数据库名;
+
+
+5.查看表：
+show tables;
